@@ -3,7 +3,7 @@
 I'm Clover Yan. Welcome to my site! <https://www.cyan.ml/>
 
 - 🔭 I’m currently working on nothing but my **real-life works** :)
-- 📫 How to reach me: <https://www.cyan.ml/contact.html>
+- 📫 How to reach me: <https://www.cyan.ml/contact>
 - 😄 Pronouns: *he*, *him* & *his*
 
 <!--
