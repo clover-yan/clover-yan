@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Clover Yan. Welcome to my site! <https://www.cyan.ml/>
+I'm Clover Yan. Welcome to my site! <https://www.khyan.top/>
 
 - 🔭 I’m currently working on nothing but my **real-life works** :)
-- 📫 How to reach me: <https://www.cyan.ml/contact>
+- 📫 How to reach me: <https://www.khyan.top/contact>
 - 😄 Pronouns: *he*, *him* & *his*
 
 <!--
