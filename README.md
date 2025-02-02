@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm Clover Yan. Welcome to my site! <https://www.khyan.top/>
+I'm Clover Yan. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on nothing but my **real-life works** :)
+Take a look at my homepage: <https://www.khyan.top/>
+
+- 🔭 I’m currently working on projects below 👇
+- 🌱 I’m currently learning C# & Python
+- 🤔 I’m looking for help with C# learning
 - 📫 How to reach me: <https://www.khyan.top/contact>
 - 😄 Pronouns: *he*, *him* & *his*
 
