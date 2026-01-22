@@ -1,12 +1,15 @@
 # Clover Yan
 
-<!-- Clover Yan  clover_yan  cloveryan -->
+<!-- Clover Yan  clover_yan  cloveryan -->  
 
 <https://www.khyan.top>
 
 > 生命是灰色的，理论之树常青。
 > 
 > *All life is grey, my friend. But forever green is the tree of theory.*
+
+[![Clover Yan's GitHub stats (Dark)](https://github-readme-stats.vercel.app/api?username=clover-yan&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=00000000&disable_animations=true&border_radius=9&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only)](https://github.com/clover-yan/github-readme-stats#gh-dark-mode-only)
+[![Clover Yan's GitHub stats (Light)](https://github-readme-stats.vercel.app/api?username=clover-yan&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=00000000&disable_animations=true&border_radius=9&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github.com/clover-yan/github-readme-stats#gh-light-mode-only)
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" />
