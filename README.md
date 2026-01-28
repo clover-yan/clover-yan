@@ -19,21 +19,22 @@
 </div>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" />
 </div>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" />
 </div>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50" />
 </div>
 
 ## PGP NOTES
 
-- 自 **2025/07/11** 以来的提交应**使用 GPG 签名**, 指纹: **`1E128517822BC124`**  
-    此日期前的提交应未被签名并显示为未经验证。
-- COMMITS SINCE **2025/07/11** SHOULD BE **SIGNED WITH GPG**, FINGERPRINT: **`1E128517822BC124`**  
-    Commits before this day should be not signed and shown as unverified.
-  
+- **2025/07/11** 之后的提交应使用 GPG 签名（指纹：`1E128517822BC124`）。
+- 自 **2026/01/23** 起，提交可能改用新密钥签名（指纹：`EA82D8BA263378D4`）。
+- 此日期之前的提交均未签名且将显示为「未验证（Unverified）」。
+* Commits made after **11/07/2025** should be **GPG-signed** (Fingerprint: `1E128517822BC124`).
+* As of **23/01/2026**, commits may be signed using the new fingerprint: `EA82D8BA263378D4`.
+* Any commits prior to these dates remain unsigned and will appear as unverified.
